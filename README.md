@@ -36,10 +36,9 @@ cd ./Fetch
 npm start
 ```
 
-or running it using node(for this you must move to the server folder and run the server.js file):
+or running it using node:
 ```bash
-cd ./server
-node server.js
+node ./server/server.js
 ```
 
 5. Open a browser and Enter this URL:
