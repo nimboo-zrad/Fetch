@@ -14,9 +14,9 @@ You can simply use this code by cloning it to the directory you wish and run the
 
 1. Moving to directory that you want:
 
-```bash
-cd the/directory/you/wish
-```
+   ```bash
+   cd the/directory/you/wish
+   ```
 
 2. Cloning the repository to your selected path:
 
