@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/nimboo-zrad/Fetch/issues"
   },
-  "homepage": "https://github.com/nimboo-zrad/Fetch#readme"
+  "homepage": "https://github.com/nimboo-zrad/Fetch#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
