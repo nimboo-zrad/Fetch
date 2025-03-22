@@ -9,22 +9,31 @@ You can simply use this code by cloning it to the directory you wish and run the
 
 1. Moving to directory that you want:
 
-`cd the/directory/you/wish`
+``` Bash
+cd the/directory/you/wish
+```
 
 2. Cloning the repository to your selected path:
 
-`git clone https://github.com/nimboo-zrad/Fetch.git`
+``` Bash
+git clone https://github.com/nimboo-zrad/Fetch.git
+```
 
 3. Move to the cloned directory:
 
-`cd ./Fetch`
+``` Bash
+cd ./Fetch
+```
 
 4. Running the server using npm:
 
-`npm start`
+```Bash
+npm start
+```
 
 or running it using node(for this you must move to the server folder and run the server.js file):
-```cd ./server
+```Bash
+cd ./server
 node server.js
 ```
 
