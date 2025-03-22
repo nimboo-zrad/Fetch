@@ -1,4 +1,9 @@
 # Fetch: A better way to fill the HTML tags!
+![GitHub License](https://img.shields.io/github/license/Nimboo-zrad/Fetch)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Nimboo-zrad/Fetch)
+![GitHub Repo stars](https://img.shields.io/github/stars/nimboo-zrad/Fetch)
+![GitHub watchers](https://img.shields.io/github/watchers/nimboo-zrad/Fetch)
+
 
 ## Description: 
 this is a simple project for entering data from text file or JSON file to HTML using java script.
@@ -9,19 +14,19 @@ You can simply use this code by cloning it to the directory you wish and run the
 
 1. Moving to directory that you want:
 
-``` Bash
+```Bash
 cd the/directory/you/wish
 ```
 
 2. Cloning the repository to your selected path:
 
-``` Bash
+```Bash
 git clone https://github.com/nimboo-zrad/Fetch.git
 ```
 
 3. Move to the cloned directory:
 
-``` Bash
+```Bash
 cd ./Fetch
 ```
 
