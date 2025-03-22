@@ -30,7 +30,13 @@ git clone https://github.com/nimboo-zrad/Fetch.git
 cd ./Fetch
 ```
 
-4. Running the server using npm:
+4. Install the dependencies: 
+
+```bash
+npm install
+```
+
+5. Running the server using npm:
 
 ```bash
 npm start
@@ -41,7 +47,7 @@ or running it using node:
 node ./server/server.js
 ```
 
-5. Open a browser and Enter this URL:
+6. Open a browser and Enter this URL:
 http://localhost:3000
 
 ## License:
