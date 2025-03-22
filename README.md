@@ -26,7 +26,7 @@ node server.js '''
 5. Open a browser and Enter this URL:
 http://localhost:3000
 
-### License:
+## License:
 This project is under MIT License. to see the full license text [click here](LICENSE)
 
 
