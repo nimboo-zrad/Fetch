@@ -1,0 +1,24 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "![GitHub License](https://img.shields.io/github/license/Nimboo-zrad/Fetch) ![GitHub package.json version](https://img.shields.io/github/package-json/v/Nimboo-zrad/Fetch) ![GitHub Repo stars](https://img.shields.io/github/stars/nimboo-zrad/Fetch) ![GitHub watchers](https://img.shields.io/github/watchers/nimboo-zrad/Fetch)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimboo-zrad/Fetch.git"
+  },
+  "keywords": ["fetch", "fetching", "HTML", "CSS", "NodeJS", "JavaScript", "ExpressJS"],
+  "author": "Nima Ziaei Rad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimboo-zrad/Fetch/issues"
+  },
+  "homepage": "https://github.com/nimboo-zrad/Fetch#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
