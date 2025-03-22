@@ -14,33 +14,33 @@ You can simply use this code by cloning it to the directory you wish and run the
 
 1. Moving to directory that you want:
 
-\```
+```bash
 cd the/directory/you/wish
-\```
+```
 
 2. Cloning the repository to your selected path:
 
-\```bash
+```bash
 git clone https://github.com/nimboo-zrad/Fetch.git
-\```
+```
 
 3. Move to the cloned directory:
 
-\```bash
+```bash
 cd ./Fetch
-\```
+```
 
 4. Running the server using npm:
 
-\```bash
+```bash
 npm start
-\```
+```
 
 or running it using node(for this you must move to the server folder and run the server.js file):
-\```bash
+```bash
 cd ./server
 node server.js
-\```
+```
 
 5. Open a browser and Enter this URL:
 http://localhost:3000
