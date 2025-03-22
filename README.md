@@ -44,9 +44,10 @@ You can simply use this code by cloning it to the directory you wish and run the
    ```
 
 - or running it using node:
-    ```bash
-    node ./server/server.js
-    ```
+
+   ```bash
+   node ./server/server.js
+   ```
 
 6. Open a browser and Enter this URL:
 http://localhost:3000
