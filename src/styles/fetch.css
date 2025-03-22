@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    font-size: 12px;
+}
+
+body{
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #b5d7c3;
+    color: #333333;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+#fetch, #json{
+    font-size: 1rem;
+    background-color: #dff0e1;
+    color: #2c2c2c;
+    width: 70vw;
+    height: auto;
+    padding: 1rem;
+    box-sizing: border-box;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+    border: solid .2rem #228b22;
+
+table, th, td {
+    height: auto;
+    border: solid .1rem #064e40;
+    border-collapse: collapse;
+    padding: .5rem;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table{
+    width: 80%;    
+    margin: 2rem auto;
+}
+
+td, th{
+    width: 25%;
+}
