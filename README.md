@@ -26,7 +26,7 @@ git clone https://github.com/nimboo-zrad/Fetch.git
 
 3. Move to the cloned directory:
 
-```bash
+```sh
 cd ./Fetch
 ```
 
