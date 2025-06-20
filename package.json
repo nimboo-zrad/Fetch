@@ -1,32 +1,22 @@
 {
-  "name": "fetch",
+  "name": "packages",
   "version": "1.0.0",
-  "description": "![GitHub License](https://img.shields.io/github/license/Nimboo-zrad/Fetch) ![GitHub package.json version](https://img.shields.io/github/package-json/v/Nimboo-zrad/Fetch) ![GitHub Repo stars](https://img.shields.io/github/stars/nimboo-zrad/Fetch) ![GitHub watchers](https://img.shields.io/github/watchers/nimboo-zrad/Fetch)",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./server/server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nimboo-zrad/Fetch.git"
-  },
-  "keywords": [
-    "fetch",
-    "fetching",
-    "HTML",
-    "CSS",
-    "NodeJS",
-    "JavaScript",
-    "ExpressJS"
-  ],
-  "author": "Nima Ziaei Rad",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nimboo-zrad/Fetch/issues"
-  },
-  "homepage": "https://github.com/nimboo-zrad/Fetch#readme",
+  "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "express-validator": "^7.2.1",
+    "nodemon": "^3.1.10",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
   }
 }
